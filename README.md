@@ -1,3 +1,5 @@
+<img width="614" height="246" alt="images" src="https://github.com/user-attachments/assets/4ac396ce-b6ec-4e3a-9235-a647eb90bc03" />
+
 # Wazuh SIEM ile RDP Brute-Force Saldırı Tespiti
 
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh%20v4.12.0-1a73e8)
